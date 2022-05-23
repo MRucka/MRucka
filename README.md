@@ -5,6 +5,15 @@
 - 🌱 I’m currently learning Natural Language Processing 
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/malgorzata-rucka/) 
 
+## My projects:
+### - Computer Vision:
+- [Drought Watch project](https://github.com/MRucka/Drought-Watch)
+- [Kamień, papier, nożyce](https://github.com/MRucka/Kamien-papier-nozyce/blob/main/Papier_kamie%C5%84_no%C5%BCyce.ipynb)
+### - Data Analysis:
+- [Prosta analiza danych dotyczących jakości powietrza](https://github.com/MRucka/Prosta_analiza_danych/blob/main/Prosta%20analiza%20danych%20Ma%C5%82gorzata%20Rucka.ipynb)
+- [Segmentacja klientów](https://github.com/MRucka/AkcjaSegmentacja/blob/main/Akcja%20Segmentacja.ipynb)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MRucka&theme=material-palenight" />
 </a>
